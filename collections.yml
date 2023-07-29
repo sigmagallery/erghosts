@@ -1,4 +1,7 @@
 collections:
-- label: 
-  data: collection1.yml
+- label: ERGhosts
+  data: erghosts.yml
+  image: 
+- label: ERGhosts Companion
+  data: erghostscompanion.yml
   image: 
