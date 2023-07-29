@@ -1,7 +1,7 @@
 collections:
 - label: ERGhosts
   data: erghosts.yml
-  image: 
+  image: https://img2.sigma.gallery/erghosts/erghosts/6272e9cb7646718679892de23e697b4a515da7a04697076d22d3c185dd43f630.webp
 - label: ERGhosts Companion
   data: erghostscompanion.yml
-  image: 
+  image: https://img2.sigma.gallery/erghosts/erghosts-companion/8b99d1c0712bae987077b004d39e9168b87fb1d6e053c0aa9244d27c6491bdf7.webp
