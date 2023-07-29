@@ -1,15 +1,9 @@
-title: 
-description: 
+title: ERGhosts
+description: AI generated art spiced up in Affinity Designer
 image: https://ipfs.io/ipfs/
 mintAddresses:
-  - 
+  - 9fiitnitpyxEazzK2MPoURtCjf8FXPCDhWZLwek5J7eTnFRcLuA
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/TheRealERGhosts
     icon: fa-brands fa-twitter fa-fw
-  - label: Discord
-    url: https://discord.com/invite/
-    icon: fa-brands fa-discord fa-fw
-  - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw
